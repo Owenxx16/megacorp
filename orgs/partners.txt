@@ -1,7 +1,5 @@
 partner list
-<<<<<<< HEAD
 SalesInc
-=======
-
->>>>>>> 15bd215 (F:)
 TheStartup
+ClosedML
+WorldBanc
